@@ -5,11 +5,7 @@ description: ""
 heroImage: "/sundyrtsev-logo.png"
 ---
 
-__Golden shield__ 
-under a scarlet head burdened with three golden lamps with a flame connected by a chain, a red griffin with the body and hind legs of a lion, and the wings, neck, front paws and head are a dragon, armed with gold.
+This coat of arms was created with the help of the Institute of Genealogy and Heraldry, which contains in itself the characteristic generations of the Sundyrtsev family.
 
-__Shoulder__ 
-The golden paw of a lion holding a red star in flames.
-
-__Indicates__ 
-Red, shot with gold.
+Deus, Diginitas, Constantia - 
+The motto was invented by one of the ancestors that means _God, Honor, Permanence_.
