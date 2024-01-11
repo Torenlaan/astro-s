@@ -5,7 +5,9 @@ description: ""
 heroImage: "/sundyrtsev-logo.png"
 ---
 
-This coat of arms was created with the help of the Institute of Genealogy and Heraldry, which contains in itself the characteristic of generations of the Sundyrtsev family.
+The Institute of Genealogy and Heraldry played a significant role in the creation of this coat of arms, which embodies the characteristics of many generations of the Sundyrtsev family.
 
-Deus, Diginitas, Constantia - 
-The motto was invented by one of the ancestors that means _God, Honor, Permanence_.
+The motto "Deus, Diginitas, Constantia" 
+was coined by one of our ancestors and represents the values of  _God, Honor, Permanence_.
+
+
